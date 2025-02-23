@@ -1,4 +1,0 @@
-id=no_f2fs
-name=No F2FS
-author=blueskychan-dev
-description=Replaces F2FS to EXT4 (on fstab)
