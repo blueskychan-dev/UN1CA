@@ -81,7 +81,7 @@ jobs:
         with:
           name: build-artifact
           path: |
-            /home/runner/work/UN1CA/UN1CA/out/*.tar*
+            /home/runner/work/UN1CA/UN1CA/out/*.zip*
 
       - name: Start Border0 in case of failure.
         if: failure()
